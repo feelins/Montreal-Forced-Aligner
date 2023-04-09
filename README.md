@@ -10,7 +10,7 @@ The Montreal Forced Aligner is a command line utility for performing forced alig
 
 Please see the documentation http://montreal-forced-aligner.readthedocs.io for installation and usage.
 
-If you run into any issues, please check the [mailing list](https://groups.google.com/forum/#!forum/mfa-users) for fixes/workarounds or to post a [new issue](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/issues).
+If you run into any issues, please check the [mailing list](https://groups.google.com/forum/#!forum/mfa-users) for fixes/workarounds or to post a [new issue](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/issues)..
 
 ## Installation
 
